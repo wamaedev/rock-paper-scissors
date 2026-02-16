@@ -25,8 +25,6 @@ let computerScore = 0;
 
 function playRound (humanChoice, computerChoice) {
  
-
-
   if (humanChoice === computerChoice) {
     return "That was a tie!";
   };
